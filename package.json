@@ -19,6 +19,9 @@
     "@angular/platform-browser": "~9.0.0",
     "@angular/platform-browser-dynamic": "~9.0.0",
     "@angular/router": "~9.0.0",
+    "bootstrap": "^4.4.1",
+    "orderlib": "file:../order/orderlib-0.0.1.tgz",
+    "productlib": "file:../product/productlib-0.0.1.tgz",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
